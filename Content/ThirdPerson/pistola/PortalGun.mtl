@@ -1,0 +1,19 @@
+newmtl M_WhiteBody
+Kd 0.92 0.93 0.95
+Ks 0.5 0.5 0.5
+
+newmtl M_BlackGrip
+Kd 0.12 0.12 0.14
+Ks 0.2 0.2 0.2
+
+newmtl M_DarkMetal
+Kd 0.22 0.24 0.27
+Ks 0.6 0.6 0.6
+
+newmtl M_PortalGreen
+Kd 0.1 0.95 0.25
+Ke 0.2 1.0 0.3
+
+newmtl M_RedDisplay
+Kd 0.95 0.1 0.15
+Ke 0.8 0.05 0.1
